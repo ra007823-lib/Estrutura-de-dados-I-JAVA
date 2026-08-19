@@ -1,0 +1,17 @@
+import java.util.Scanner;
+public class exemplo4_8 {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		float a,b,c;
+		System.out.print("informe o lado A: ");
+		a = Integer.parseInt(scanner.nextLine());
+		System.out.print("informe o lado B: ");
+		b = Integer.parseInt(scanner.nextLine());
+		System.out.print("informe o lado C: ");
+		c = Integer.parseInt(scanner.nextLine());
+		if(a != 0 )
+		
+	}
+
+}
