@@ -10,6 +10,7 @@ public class exemplo4_5 {
 		}
 		else {
 			System.out.println("O numero "+num+" é par");
+			
 		}
 	}
 
