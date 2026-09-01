@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
-    <entry loc="/usr/lib/jvm/java-25-openjdk-amd64" stamp="1780072561278"/>
+    <entry loc="/usr/lib/jvm/java-25-openjdk-amd64" stamp="1787763109211"/>
     <entry loc="/snap/eclipse/146/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.11.v20260515-1531/jre" stamp="1784881510000"/>
     <entry loc="/usr/lib/jvm/jdk-26.0.2-oracle-x64" stamp="1785369278166"/>
-    <entry loc="/usr/lib/jvm/java-21-openjdk-amd64" stamp="1780072551412"/>
+    <entry loc="/usr/lib/jvm/java-21-openjdk-amd64" stamp="1787763098525"/>
     <entry loc="/snap/eclipse/146/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.11.v20260515-1531" stamp="1784881510000"/>
 </dirs>

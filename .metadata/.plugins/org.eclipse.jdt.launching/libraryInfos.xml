@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
-    <libraryInfo home="/usr/lib/jvm/java-25-openjdk-amd64" version="25.0.3"/>
+    <libraryInfo home="/usr/lib/jvm/java-25-openjdk-amd64" version="25.0.4"/>
     <libraryInfo home="/snap/eclipse/146/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.11.v20260515-1531/jre" version="21.0.11"/>
     <libraryInfo home="/usr/lib/jvm/jdk-26.0.2-oracle-x64" version="26.0.2"/>
-    <libraryInfo home="/usr/lib/jvm/java-21-openjdk-amd64" version="21.0.11"/>
+    <libraryInfo home="/usr/lib/jvm/java-21-openjdk-amd64" version="21.0.12"/>
     <libraryInfo home="/snap/eclipse/146/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_21.0.11.v20260515-1531" version="21.0.11">
         <bootpath>
             <entry path="null"/>
