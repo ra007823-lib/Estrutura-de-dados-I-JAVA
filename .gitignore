@@ -33,3 +33,8 @@ replay_pid*
 /.metadata
 /.metadata
 .metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml
+.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources
+.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
+/.metadata/.plugins/org.eclipse.jdt.core
+/.metadata/.plugins
+/.metadata
