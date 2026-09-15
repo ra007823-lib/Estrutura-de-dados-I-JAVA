@@ -39,3 +39,4 @@ replay_pid*
 /.metadata/.plugins
 /.metadata
 /.metadata
+.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
