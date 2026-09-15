@@ -18,11 +18,14 @@ public class Exercicio02{
 }
 */
 	public static void main(String[] args) {
-			float num, soma = 0f;
+			float num, soma = 0,i = 0;
+			String cont;
 			do{
 				num = Float.parseFloat(JOptionPane.showInputDialog("Digite um numero ou zero para sair:"));
-				soma+=num;
-			}while(num !=0);
-			JOptionPane.showMessageDialog(null,"Soma final:"+soma);
+				cont = JOptionPane.showInputDialog("Deseja continuar (sim) ou (nao): ");
+				soma +=num;
+				i+=1;
+			}while(cont .equals("sim"));
+			JOptionPane.showMessageDialog(null,"Soma final:"+(soma/i));
 		}
 	}
