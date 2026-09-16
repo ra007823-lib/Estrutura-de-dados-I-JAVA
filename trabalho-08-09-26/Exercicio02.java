@@ -21,7 +21,7 @@ public class Exercicio02{
 			float num, soma = 0,i = 0;
 			String cont;
 			do{
-				num = Float.parseFloat(JOptionPane.showInputDialog("Digite um numero ou zero para sair:"));
+				num = Float.parseFloat(JOptionPane.showInputDialog("Digite a nota do aluno:"));
 				cont = JOptionPane.showInputDialog("Deseja continuar (sim) ou (nao): ");
 				soma +=num;
 				i+=1;
